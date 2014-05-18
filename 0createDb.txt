@@ -1,0 +1,1 @@
+create database tihai character set gbk;
